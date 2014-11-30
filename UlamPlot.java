@@ -1,5 +1,6 @@
-
-
+//Algorithm by Craig Coleman
+// I did not look at any Ulam Spiral algorithms before I developed this.
+// Plese give me credit if you use this
 
 import java.awt.*;
 import java.awt.event.*; 
