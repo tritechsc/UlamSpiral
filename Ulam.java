@@ -1,3 +1,8 @@
+//Algorithm by Craig Coleman
+// I did not look at any Ulam Spiral algorithms before I developed this.
+// Plese give me credit if you use this
+// This is an algorithm study.
+
 class Ulam {
 	public static void main (String args[]){
 		int x = 0, y = 0,  e; // e is the end state of nlogic;
