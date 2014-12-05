@@ -10,4 +10,7 @@ To run:
 java ClassFile.java
 
 $javac UlamSpiralScaled.java
+
 $java UlamSpiralScaled
+
+the push
